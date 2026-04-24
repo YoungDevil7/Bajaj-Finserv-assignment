@@ -4,7 +4,10 @@
   "private": true,
   "main": "App.jsx",
   "scripts": {
-    "start": "npx serve ."
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "dependencies": {}
 }

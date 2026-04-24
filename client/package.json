@@ -1,0 +1,10 @@
+{
+  "name": "bfhl-client",
+  "version": "1.0.0",
+  "private": true,
+  "main": "App.jsx",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {}
+}
